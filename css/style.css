@@ -67,7 +67,7 @@ p {
     color: #FFFFFF;
   }
   body {
-    --brand-color: #002bc8;
+    --brand-color: #5f81fa;
   }
   h1 {
     color: var(--brand-color);
